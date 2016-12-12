@@ -1,0 +1,23 @@
+// Place your settings in this file to overwrite the default settings
+{
+    // Editor
+    "editor.fontFamily": "Source Code Pro",
+    "editor.wrappingColumn": -1,
+    "editor.formatOnType": true,
+
+    // Workbench    
+    "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true,
+        "**/node_modules": false,
+        "**/www": false,
+        "**/platforms": false,
+        "**/.vscode": true
+    },
+    "workbench.editor.openPositioning": "left",
+    "workbench.action.terminal.focus": true,
+    "typescript.check.tscVersion": true,
+    "explorer.autoReveal": false,
+    "explorer.fontFamily": "Source Code Pro",
+    "window.zoomLevel": 0
+}
