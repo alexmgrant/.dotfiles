@@ -15,7 +15,8 @@
         "**/.vscode": true
     },
     "workbench.editor.openPositioning": "left",
-    "workbench.action.terminal.focus": true,
+    // "workbench.action.terminal.focus": "⌃`",
+    "workbench.sideBar.location": "right",
     "typescript.check.tscVersion": true,
     "explorer.autoReveal": false,
     "explorer.fontFamily": "Source Code Pro",
